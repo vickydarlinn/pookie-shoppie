@@ -18,6 +18,7 @@ Each component of the Pookie Shoppie ecosystem is stored in a separate GitHub re
 - **Admin UI**: [Admin UI Repository](https://github.com/vickydarlinn/pookie_shoppe_admin_ui)
 - **Catalog Service**: [Catalog Service Repository](https://github.com/vickydarlinn/vickydarlinn-pookie_shoppe_catalog_service)
 - **Auth Service**: [Auth Service Repository](https://github.com/vickydarlinn/pookie_shoppe_auth_service)
+- **Kong Gateway: [Kong Gateway Repository](https://github.com/vickydarlinn/pookie_shoppie_gateway)
 
 ## Getting Started
 
